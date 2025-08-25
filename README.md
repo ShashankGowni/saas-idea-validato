@@ -13,7 +13,7 @@ Let the AI genius (powered by Ollama) analyze it and give you a detailed breakdo
 - [API](#api)
 - [Future Improvements](#future-improvements)
 
-## 🧠✨About
+## 🧠✨ About
 
 Welcome to SaaS Idea Validator! 🚀 Whether you're in the brainstorming phase or have a solid SaaS product in mind, this tool is here to give you some AI-powered feedback. 🚨 Using a local Ollama AI model, this app dives deep into your idea and provides a validation report with strengths, weaknesses, opportunities, and threats (SWOT analysis). Think of it as your personal idea coach. 🏅
 
