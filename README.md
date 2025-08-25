@@ -72,7 +72,7 @@ Built with Node.js and Express, the app is easy to set up, lightweight, and offe
 ```
 
 
-## 🎯 Usage 
+## 🎯Usage 
 
 - Enter your SaaS idea in the text input box ✍️
 
