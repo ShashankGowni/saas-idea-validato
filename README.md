@@ -13,13 +13,13 @@ Let the AI genius (powered by Ollama) analyze it and give you a detailed breakdo
 - [API](#api)
 - [Future Improvements](#future-improvements)
 
-## 🧠✨ About
+## 🧠✨About
 
 Welcome to SaaS Idea Validator! 🚀 Whether you're in the brainstorming phase or have a solid SaaS product in mind, this tool is here to give you some AI-powered feedback. 🚨 Using a local Ollama AI model, this app dives deep into your idea and provides a validation report with strengths, weaknesses, opportunities, and threats (SWOT analysis). Think of it as your personal idea coach. 🏅
 
 Built with Node.js and Express, the app is easy to set up, lightweight, and offers a super-quick, hassle-free validation process.
 
-## 🔥 Features
+## 🔥Features
 
 - Enter your idea: Type it into a simple, user-friendly interface ✍️
 
@@ -31,7 +31,7 @@ Built with Node.js and Express, the app is easy to set up, lightweight, and offe
 
 - Instant feedback: Get an analysis within seconds ⚡
 
-## 🛠️ Tech Stack
+## 🛠️Tech Stack
 
 - Node.js 🌍 – Backend runtime environment
 
@@ -43,7 +43,7 @@ Built with Node.js and Express, the app is easy to set up, lightweight, and offe
 
 - node-fetch 🌐 – API communication between your app and Ollama
 
-## 🔧 Installation
+## 🔧Installation
 
 1. Clone the repository:
 
@@ -82,7 +82,7 @@ Built with Node.js and Express, the app is easy to set up, lightweight, and offe
 
 - Review the insights and adjust your idea accordingly to increase its chances of success! 💪
 
-### 📡 API 
+### 📡API 
 
 **POST /validate**
 
@@ -102,7 +102,7 @@ Response Body (JSON):
 }
 ```
 
-## 🚀 Future Improvements 
+## 🚀Future Improvements 
 
 - User authentication: Allow users to track and save their ideas and feedback 🔐
 
