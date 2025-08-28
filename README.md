@@ -114,6 +114,8 @@ Response Body (JSON):
 
 - Customizable AI prompts: Tailor the AI’s responses to specific needs 🎯
 
+## Output
+
 
 **Created with 💻 and Passion by Gowni Shashank**
 **August 2025 🌍**
